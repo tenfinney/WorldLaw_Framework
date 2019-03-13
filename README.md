@@ -197,8 +197,7 @@ People
     :suspect:
     :trollface:
 
-Nature
-
+Nature 
     :sunny:
     :umbrella:
     :cloud:
@@ -316,7 +315,6 @@ Nature
     :squirrel:
 
 Objects
-
     :bamboo:
     :gift_heart:
     :dolls:
@@ -579,7 +577,6 @@ Objects
     :corn:
 
 Places
-
     :house:
     :house_with_garden:
     :school:
@@ -688,7 +685,6 @@ Places
     :de:
 
 Symbols
-
     :one:
     :two:
     :three:
@@ -893,7 +889,6 @@ Symbols
     :shipit:
 
 Campfire also supports a few sounds
-
     ► /play secret
     ► /play trombone
     ► /play crickets
