@@ -29,6 +29,7 @@ Nature
     :penguin:
     :beetle:
     :fish:
+    :tropical_fish:
     :rooster:
     :dog2:
     :cat2:
