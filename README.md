@@ -56,7 +56,6 @@ Objects
     :wine_glass:
     :pizza:
     :hamburger:
-    :bento:
     :sushi:
     :doughnut:
     :lollipop:
@@ -66,7 +65,6 @@ Places
     :bank:
     :rocket:
     :warning:
-    :construction:
     :jp:
     :kr:
     :cn:
