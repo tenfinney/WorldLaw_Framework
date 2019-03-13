@@ -21,7 +21,6 @@ People
     :point_up:
     :point_down:
     :eyes:
-     :trollface:
 
 Nature 
     :sunny:
@@ -41,7 +40,6 @@ Nature
     :earth_africa:
     :earth_americas:
     :earth_asia:
-    :volcano:
 
 Objects
     :gift_heart:
