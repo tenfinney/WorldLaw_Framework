@@ -1,6 +1,8 @@
 # icons
 Just Some Github Icons
 
+![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/34fcf3fd-c662-4c04-ad0b-19c01e535695/image.png)
+
 People
     :smile:
     :smiley:
