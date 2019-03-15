@@ -97,3 +97,5 @@ Symbols
     :arrow_up_small:
     :information_source:
     :ok:
+
+https://www.lucidchart.com/publicSegments/view/34fcf3fd-c662-4c04-ad0b-19c01e535695/image.png
