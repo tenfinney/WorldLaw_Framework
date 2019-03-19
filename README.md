@@ -1,5 +1,5 @@
 # icons
-Just Some Github Icons
+It is more than just icons.  It is the entire WorldLaw system in diagrams.
 
 ![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/f44517b1-e84b-4684-a7d7-9ec336763634/image.png)
 ---
