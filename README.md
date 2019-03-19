@@ -1,6 +1,15 @@
 # icons
 It is more than just icons.  It is the entire WorldLaw system in diagrams.
 
+# worldlaw-framework
+All master charts and diagrams for the initial WorldLaw product launch.
+
+![Image of Logo Anim. Black](http://blackboxlaw.com/images/wl-anim-2020-black-12-black.gif)
+
+---
+--- 
+
+
 ![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/f44517b1-e84b-4684-a7d7-9ec336763634/image.png)
 ---
 ---
