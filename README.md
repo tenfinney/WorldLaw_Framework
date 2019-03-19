@@ -2,7 +2,9 @@
 Just Some Github Icons
 
 ![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/f44517b1-e84b-4684-a7d7-9ec336763634/image.png)
+---
 ![Image of WorldLaw Slide 2](https://www.lucidchart.com/publicSegments/view/a8872379-d5ef-47ae-b447-2b0299fb91db/image.png)
+---
 ![Image of WorldLaw Slide 3](https://www.lucidchart.com/publicSegments/view/a469eea3-3b46-4c0b-b208-1b53b03104b2/image.png)
 ![Image of WorldLaw Slide 4](https://www.lucidchart.com/publicSegments/view/c4d816bb-4431-4b08-b245-0f145b1efdde/image.png)
 ![Image of WorldLaw Slide 8](https://www.lucidchart.com/publicSegments/view/356f4f92-ee5c-426d-b0e7-aa7cf79bea81/image.png)
