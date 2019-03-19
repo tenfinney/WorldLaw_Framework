@@ -73,7 +73,7 @@ It is more than just icons.  It is the entire WorldLaw system in diagrams.
 ![Image of WorldLaw Slide 29](https://www.lucidchart.com/publicSegments/view/253d86a5-c045-429c-9528-1f26b2a88682/image.png)
 ---
 ---
-![Image of WorldLaw Slide 31](https://www.lucidchart.com/publicSegments/view/253d86a5-c045-429c-9528-1f26b2a88682/image.png)
+![Image of WorldLaw Slide 31](https://www.lucidchart.com/publicSegments/view/ff42d1a8-47f3-459d-9e66-03a299bb73f3/image.png)
 ---
 ---
 ![Image of WorldLaw Slide 32](https://www.lucidchart.com/publicSegments/view/bbbfbd8b-8ffa-4618-a5c9-9ef14c8bf314/image.png)
